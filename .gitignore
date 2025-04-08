@@ -1,2 +1,7 @@
 **/.ipynb_checkpoints/*
 *.zip
+
+Belajar Pengembangan Machine Learning/*/datasets/*
+Belajar Pengembangan Machine Learning/*/model-datasets/*/*
+
+!.gitkeep

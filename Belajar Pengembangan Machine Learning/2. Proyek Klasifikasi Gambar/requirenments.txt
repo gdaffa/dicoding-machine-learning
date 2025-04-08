@@ -1,0 +1,11 @@
+jupyter==1.1.1
+selenium==4.30.0
+
+# berdasarkan colab
+keras==3.8.0
+matplotlib==3.10.0
+numpy==2.0.2
+scikit-learn==1.6.1
+seaborn==0.13.2
+tensorflow==2.19.0
+tensorflowjs==4.22.0
