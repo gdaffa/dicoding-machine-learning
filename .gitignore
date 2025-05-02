@@ -1,8 +1,8 @@
 **/.ipynb_checkpoints/*
 *.zip
 
-3*/2*/datasets/*
-3*/2*/model-datasets/*/*
-3*/2*/models/*
+3*/b*/datasets/*
+3*/b*/model-datasets/*/*
+3*/b*/models/*
 
 !.gitkeep
