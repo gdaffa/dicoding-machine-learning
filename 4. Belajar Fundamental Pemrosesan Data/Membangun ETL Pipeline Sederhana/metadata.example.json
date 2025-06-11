@@ -1,0 +1,46 @@
+{
+   "domain": "https://fashion-studio.dicoding.dev",
+   "columns": [
+      "name",
+      "price",
+      "rating",
+      "colors",
+      "size",
+      "gender",
+      "timestamp"
+   ],
+   "columns_format": {
+      "name": [
+         "(\\w+ \\d+)",
+         "string"
+      ],
+      "price": [
+         "\\$(\\d+\\.\\d{2})",
+         "float"
+      ],
+      "rating": [
+         "Rating: \u2b50 (\\d\\.\\d) / 5",
+         "float"
+      ],
+      "colors": [
+         "(\\d+) Colors",
+         "int"
+      ],
+      "size": [
+         "Size: (S|M|L|X{1,2}L)",
+         "category"
+      ],
+      "gender": [
+         "Gender: (Men|Women|Unisex)",
+         "category"
+      ]
+   },
+   "exchange": 16000,
+   "spreadsheet_id": "XXX",
+   "database_engine_url": "postgresql+psycopg2://XXX:XXX@localhost/XXX",
+   "repo": {
+      "csv": 1,
+      "spreadsheet": 867,
+      "database": 867
+   }
+}

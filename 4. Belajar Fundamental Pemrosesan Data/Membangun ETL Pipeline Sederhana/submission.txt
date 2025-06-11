@@ -1,0 +1,14 @@
+# Run the program.
+python main.py
+
+# Run the unit testing.
+python -m pytest -v tests
+
+# Run the unit testing with coverage score.
+python -m pytest -v --cov html tests
+
+# Run the unit testing with coverage score with HTML GUI.
+python -m pytest -v --cov --cov-report html tests
+
+# Google Sheet URL.
+https://docs.google.com/spreadsheets/d/12MdbzzpC-dHV09T3Q6wD2thfB_AsbkW8VtaJGlCp890/edit?usp=sharing

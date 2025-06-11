@@ -1,0 +1,21 @@
+,name,price,rating,colors,size,gender
+0,Unknown Product,$100.00,Rating: ⭐ Invalid Rating / 5,5 Colors,Size: M,Gender: Men
+1,T-shirt 2,$102.15,Rating: ⭐ 3.9 / 5,3 Colors,Size: M,Gender: Women
+2,Hoodie 3,$496.88,Rating: ⭐ 4.8 / 5,3 Colors,Size: L,Gender: Unisex
+3,Pants 4,$467.31,Rating: ⭐ 3.3 / 5,3 Colors,Size: XL,Gender: Men
+4,Outerwear 5,$321.59,Rating: ⭐ 3.5 / 5,3 Colors,Size: XXL,Gender: Women
+5,Jacket 6,$153.37,Rating: ⭐ 3.3 / 5,3 Colors,Size: S,Gender: Unisex
+6,Crewneck 7,$430.75,Rating: ⭐ 4.3 / 5,3 Colors,Size: M,Gender: Men
+7,T-shirt 8,$487.66,Rating: ⭐ 3.1 / 5,3 Colors,Size: L,Gender: Women
+8,Hoodie 9,$248.26,Rating: ⭐ 3.2 / 5,3 Colors,Size: XL,Gender: Unisex
+9,Pants 10,$193.76,Rating: ⭐ 4.2 / 5,3 Colors,Size: XXL,Gender: Men
+10,Unknown Product,$100.00,Rating: ⭐ Invalid Rating / 5,5 Colors,Size: M,Gender: Men
+11,Jacket 12,$532.99,Rating: ⭐ 3.9 / 5,3 Colors,Size: M,Gender: Unisex
+12,Crewneck 13,$340.45,Rating: ⭐ 3.2 / 5,3 Colors,Size: L,Gender: Men
+13,T-shirt 14,$203.05,Rating: ⭐ 3.8 / 5,3 Colors,Size: XL,Gender: Women
+14,Hoodie 15,$136.51,Rating: ⭐ 3.6 / 5,3 Colors,Size: XXL,Gender: Unisex
+15,Pants 16,Price Unavailable,Rating: Not Rated,8 Colors,Size: S,Gender: Men
+16,Outerwear 17,$52.60,Rating: ⭐ 3.8 / 5,3 Colors,Size: M,Gender: Women
+17,Jacket 18,$343.75,Rating: ⭐ 3.8 / 5,3 Colors,Size: L,Gender: Unisex
+18,Crewneck 19,$81.81,Rating: ⭐ 3.6 / 5,3 Colors,Size: XL,Gender: Men
+19,T-shirt 20,$82.85,Rating: ⭐ 3.4 / 5,3 Colors,Size: XXL,Gender: Women

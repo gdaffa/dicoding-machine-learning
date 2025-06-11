@@ -1,0 +1,12 @@
+pandas==2.2.3
+requests==2.32.3
+beautifulsoup4==4.13.3
+google-auth==2.40.3
+google-api-python-client==2.171.0
+SQLAlchemy==2.0.41
+psycopg2==2.9.10
+
+# testing
+pytest==8.3.5
+coverage==7.8.2
+pytest-cov==6.1.1
