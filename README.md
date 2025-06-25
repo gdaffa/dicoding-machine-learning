@@ -2,6 +2,7 @@
 
 Repository digunakan oleh saya untuk mendokumentasikan semua proyek yang berkaitan dengan *machine learning* yang diperintahkan di kelas Dicoding. Berikut adalah penjelasan mengenai setiap proyek.
 
+
 ## 1. Belajar Analisis Data dengan Python
 
 ### Proyek Analisis Data
@@ -35,6 +36,7 @@ Repository digunakan oleh saya untuk mendokumentasikan semua proyek yang berkait
   - Menerapkan feature selection pada tahap clustering untuk memilih fitur terbaik.
   - Evaluasi akhir pada clustering harus mencapai nilai silhouette score minimal 0.70.
 
+
 ## 3. Belajar Pengembangan Machine Learning
 
 ### a. Proyek Analisis Sentimen
@@ -66,3 +68,18 @@ Repository digunakan oleh saya untuk mendokumentasikan semua proyek yang berkait
   - Dataset yang digunakan berisi minimal 10000 gambar.
   - Akurasi pada training set dan testing set minimal 95%.
   - Melakukan inference menggunakan salah satu model.
+
+
+## 4. Belajar Pengembangan Machine Learning
+
+### Membangun ETL Pipeline Sederhana
+
+- ⭐ Bintang: 5
+- 🔴 Ditolak: 0
+
+- 🏆 Penilaian yang Terpenuhi:
+  - Membuat ETL Pipeline dengan Prinsip Modular Code (4 pts).
+  - Menyimpan Data dalam Repositori Data (4 pts).
+  - Menerapkan Unit Test (4 pts).
+
+- 💬 Penilaian yang Tidak Terpenuhi: -
