@@ -1,0 +1,2 @@
+python prometheus.py &
+prometheus
