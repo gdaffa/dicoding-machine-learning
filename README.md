@@ -102,3 +102,19 @@ Berikut adalah penjelasan mengenai setiap proyek.
   - Menerapkan Unit Test (4 pts).
 
 - 💬 Penilaian yang Tidak Terpenuhi: -
+
+
+## 5. Membangun Sistem Machine Learning
+
+### Proyek Akhir
+
+- ⭐ Bintang: 5
+- 🔴 Ditolak: 1x
+
+- 🏆 Penilaian yang Terpenuhi:
+  - Melakukan Eksperimen Terhadap Dataset Pelatihan (4 pts).
+  - Membangun Model Machine Learning (4 pts).
+  - Membuat Workflow CI (4 pts).
+  - Membuat Sistem Monitoring dan Logging (4 pts).
+
+- 💬 Penilaian yang Tidak Terpenuhi: -
